@@ -31,7 +31,7 @@ The webapp component can be built currently and imported into an existing Tomcat
 ## Dependencies
 
 TODO - Incomplete at present including versions of already identified deps
-I have just listed here all the dependancies needed to compile. At present
+I have just listed here all the dependencies needed to compile. At present
 they are all contained in the repository. 
 
 Some of these will be need to be culled from the distribution channel. Ideally
